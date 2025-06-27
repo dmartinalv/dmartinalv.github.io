@@ -3,7 +3,7 @@
     "path": "~/quarto_personal_website/dmartinalv.github.io/curriculum.qmd",
     "project_path": "curriculum.qmd",
     "type": "quarto_markdown",
-    "hash": "2861985744",
+    "hash": "1956871817",
     "contents": "",
     "dirty": false,
     "created": 1751031712979.0,
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "44:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751032941,
+    "lastKnownWriteTime": 1751033717,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751032941953,
+    "last_content_update": 1751033717508,
     "read_only": false,
     "read_only_alternatives": []
 }
