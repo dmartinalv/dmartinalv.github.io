@@ -1,6 +1,8 @@
 ---
 title: "Wellcome to my website!"
-theme: cosmo
+image: foto_web.jpg
+about:
+  template: solana
 ---
 
 I'm Diego, a second-year master's student in the MA in Social Sciences at the Carlos III - Juan March Institute in Madrid, and a political scientist in the making. Since December 2024, I also work as an RA to Pau Vall-Prat.

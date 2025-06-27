@@ -3,7 +3,7 @@
     "path": "~/quarto_personal_website/dmartinalv.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3058596350",
+    "hash": "1043150158",
     "contents": "",
     "dirty": false,
     "created": 1751013930930.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,13",
+        "cursorPosition": "16,16",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1751032940,
+    "lastKnownWriteTime": 1751033240,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1751032940593,
+    "last_content_update": 1751033240309,
     "read_only": false,
     "read_only_alternatives": []
 }

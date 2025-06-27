@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: jekyll-theme-minimal
+    theme: cosmo
     css: styles.css
     toc: true
 
