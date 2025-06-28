@@ -1,6 +1,8 @@
 ---
 title: "Curriculum Vitae"
-theme: cosmo
+theme:
+  light: flatly
+  dark: darkly
 ---
 
 <embed src="CV_Diego_Martín_Álvarez.pdf" type="application/pdf" width="100%" height="600px" />
