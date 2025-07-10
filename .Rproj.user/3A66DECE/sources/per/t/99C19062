@@ -1,9 +1,9 @@
 {
     "id": "99C19062",
-    "path": "~/quarto_personal_website/dmartinalv.github.io/index.qmd",
+    "path": "~/dmartinalv.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "750121612",
     "contents": "",
     "dirty": false,
     "created": 1751013930568.0,
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
+        "rmdVisualModeLocation": "312:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
