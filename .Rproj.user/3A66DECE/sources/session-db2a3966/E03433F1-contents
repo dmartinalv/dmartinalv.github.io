@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Diego Martín-Álvarez"
+  site-url: https://dmartinalv.github.io
   navbar:
     search: false
     left:
@@ -19,5 +20,5 @@ format:
         dark: darkly
     css: styles.css
     toc: true
-
+    
 editor: visual
