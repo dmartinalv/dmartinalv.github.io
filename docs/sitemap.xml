@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dmartinalv.github.io/index.html</loc>
-    <lastmod>2025-11-25T18:19:24.468Z</lastmod>
+    <loc>https://dmartinalv.github.io/research.html</loc>
+    <lastmod>2026-02-17T15:11:58.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dmartinalv.github.io/curriculum.html</loc>
+    <lastmod>2025-06-28T14:04:27.478Z</lastmod>
   </url>
   <url>
     <loc>https://dmartinalv.github.io/about.html</loc>
     <lastmod>2025-06-27T08:45:28.650Z</lastmod>
   </url>
   <url>
-    <loc>https://dmartinalv.github.io/curriculum.html</loc>
-    <lastmod>2025-06-28T14:04:27.478Z</lastmod>
+    <loc>https://dmartinalv.github.io/index.html</loc>
+    <lastmod>2025-11-25T18:19:24.468Z</lastmod>
   </url>
 </urlset>
